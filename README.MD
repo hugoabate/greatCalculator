@@ -1,3 +1,3 @@
 # Great Calculator
 
-A simple calculator using Bootstrap, html and CSS.
+A simple calculator using JavaScript, Bootstrap, html and CSS.

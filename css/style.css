@@ -122,7 +122,6 @@ input {
 }
 
 #footer {
-  background-color: #212529;
   height: 15vh;
   font-size: 20px;
   font-weight: 500;
@@ -132,10 +131,10 @@ input {
 }
 .anchor {
   text-decoration: none;
-  color: white;
+  color: grey;
 }
 .anchor:hover {
-  color: #ff4043;
+  color: #ffcc40;
 }
 #myName {
   color: #666;
